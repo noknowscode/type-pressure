@@ -1,3 +1,5 @@
+> **Moved to uno-lab.** This project now lives in the `type-pressure/` folder of [noknowscode/uno-lab](https://github.com/noknowscode/uno-lab/tree/main/type-pressure) (private). This repository is archived and kept for its history.
+
 # Type Pressure — Uno desktop and Android
 
 A native Uno Platform / XAML typography experiment. The exhibition canvas is drawn with Skia, using the original OpenType variation data from Roboto Flex and Anybody.
